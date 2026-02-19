@@ -41,6 +41,7 @@ int main() {
     printf("Total: %.2f\n", s.total);
     printf("Average: %.2f\n", s.average);
     printf("Grade: %c\n", s.grade);
+printf("varun");
 
     return 0;
 }
